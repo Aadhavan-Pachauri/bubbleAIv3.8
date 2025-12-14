@@ -394,5 +394,7 @@ export const AuthPage: React.FC = () => {
                 </AnimatePresence>
             </motion.div>
         </div>
-    );
+    </div>
+  );
 };
+
